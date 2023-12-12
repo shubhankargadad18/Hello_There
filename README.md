@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhankar-gadad-026179205/" target="blank"><img align="center" src="https://visualpharm.com/assets/795/Linkedin-595b40b85ba036ed117dc222.svg" alt="shubhankargadad" height="30" width="40" /></a>
-<a href="https://instagram.com/the_stoical_sapien" target="blank"><img align="center" src="https://visualpharm.com/assets/360/Instagram-595b40b65ba036ed117d1e38.svg" alt="the_stoical_sapien" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhankar-gadad-026179205/" target="blank"><img align="center" src="https://visualpharm.com/assets/230/Linkedin-595b40b75ba036ed117d8586.svg" alt="shubhankargadad" height="30" width="40" /></a>
+<a href="https://instagram.com/the_stoical_sapien" target="blank"><img align="center" src="https://visualpharm.com/assets/547/Instagram-595b40b65ba036ed117d42b8.svg" alt="the_stoical_sapien" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
