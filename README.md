@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,Nextjs,Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Different Pro**
+- 👯 I’m looking to collaborate on **Different Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhankargadad18](https://github.com/shubhankargadad18)
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **shubhankargadad967@gmail.com**
 
