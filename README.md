@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankargadad18&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankargadad18" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Reactjs,Nextjs,Tailwind CSS**
+- 🌱 I’m currently learning **Reactjs,Nodejs,Nextjs,Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Different Pro**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhankargadad18](https://github.com/shubhankargadad18)
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **React,Javascript**
 
 - 📫 How to reach me **shubhankargadad967@gmail.com**
 
